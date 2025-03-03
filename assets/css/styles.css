@@ -135,7 +135,7 @@ section {
 }
 .hero_contents-top {
   width: 100%;
-  aspect-ratio: 2/1;
+  aspect-ratio: 1600/500;
   position: relative;
   border-radius: 50px;
   overflow: hidden;
