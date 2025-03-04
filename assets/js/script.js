@@ -277,7 +277,7 @@ const comparisonAnimation = () => {
        <div class="review_score">
             <div class="review_score-imgs">
             ${Array.from({ length: item.score })
-              .map(() => `<img src="/assets/images/icons/star.png" alt="">`)
+              .map(() => `<img src="./assets/images/icons/star.png" alt="">`)
               .join("")}
             </div>
             <span>${item.score}</span>
